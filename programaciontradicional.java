@@ -43,3 +43,4 @@ public class PromedioTemperaturas {
         return suma / temperaturas.size();
     }
 }
+
